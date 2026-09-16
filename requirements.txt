@@ -1,0 +1,7 @@
+# Direct runtime dependencies, pinned to the tested local environment.
+numpy==2.0.2
+pandas==2.3.3
+matplotlib==3.9.4
+statsmodels==0.14.6
+streamlit==1.50.0
+plotly==6.7.0

@@ -1,0 +1,21 @@
+date,product,demand
+2026-01-01,Widget A,120
+2026-01-02,Widget A,128
+2026-01-03,Widget A,
+2026-01-04,Widget A,133
+2026-01-05,Widget A,140
+2026-01-06,Widget A,138
+2026-01-07,Widget A,145
+2026-01-08,Widget A,149
+2026-01-09,Widget A,151
+2026-01-10,Widget A,154
+2026-01-01,Widget B,85
+2026-01-02,Widget B,88
+2026-01-03,Widget B,90
+2026-01-04,Widget B,
+2026-01-05,Widget B,95
+2026-01-06,Widget B,97
+2026-01-07,Widget B,100
+2026-01-08,Widget B,102
+2026-01-09,Widget B,101
+2026-01-10,Widget B,105
