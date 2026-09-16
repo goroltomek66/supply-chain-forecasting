@@ -878,6 +878,17 @@ def main() -> None:
         )
         forecast_horizon = st.number_input("Forecast horizon", min_value=1, max_value=30, value=14, step=1)
 
+    st.caption("Try the synthetic demo dataset, provided only to demonstrate the application. Download it, upload it below, then click Run Analysis.")
+    try:
+        demo_data = (PROJECT_ROOT / "data" / "demo_dairy_demand.csv").read_bytes()
+    except OSError:
+        st.info("The demo dataset is currently unavailable. You can still upload your own CSV.")
+    else:
+        st.download_button(
+            "Download Demo Dataset", data=demo_data, file_name="demo_dairy_demand.csv",
+            mime="text/csv", on_click="ignore",
+        )
+
     uploaded_file = st.file_uploader("Upload demand CSV", type=["csv"])
     if uploaded_file is None:
         st.info("Upload a CSV to preview the data and run the forecast planning analysis.")

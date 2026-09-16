@@ -23,6 +23,7 @@ htmlcov/
 /output/
 /data/*
 !/data/sample_demand.csv
+!/data/demo_dairy_demand.csv
 
 # Credentials and machine-local settings; safe example templates may be shared
 .env

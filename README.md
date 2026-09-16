@@ -10,6 +10,12 @@ explanations.
 
 **Live Demo:** [supply-chain-demand-planner.streamlit.app](https://supply-chain-demand-planner.streamlit.app)
 
+**Try the demo:** Open the live app, click **Download Demo Dataset**, upload the
+downloaded CSV, and click **Run Analysis**. The included dataset is also available
+here: [demo_dairy_demand.csv](data/demo_dairy_demand.csv).
+
+The included dairy dataset is entirely synthetic and was created solely to demonstrate the application's forecasting and inventory-planning workflow. It does not represent actual company, customer, supplier, or operational data.
+
 ## How It Works
 
 Upload demand data → Clean & standardize → Forecast product demand → Evaluate/select models → Calculate inventory requirements → Prioritize planning actions → Explore results with the AI Planning Assistant
@@ -81,9 +87,11 @@ On Windows, activate the environment with `.venv\Scripts\Activate.ps1` in PowerS
 Open the local URL printed by Streamlit (normally `http://localhost:8501`).
 Upload a CSV, choose the planning settings, and click **Run Analysis**.
 
-The included `data/sample_demand.csv` is a small Widget example for the data and
-forecasting workflow. It has no inventory snapshots, so inventory actions are
-withheld. For inventory planning, provide demand history with `date`, `product`,
+The included [data/sample_demand.csv](data/sample_demand.csv) is a small, basic
+forecasting sample. It has no inventory snapshots, so inventory actions are
+withheld. Use [data/demo_dairy_demand.csv](data/demo_dairy_demand.csv) for the full
+synthetic forecasting and inventory-planning demo shown in the screenshots.
+For your own inventory-planning data, provide demand history with `date`, `product`,
 `demand`, and `on_hand_inventory`; include `lead_time_days` for product-specific
 lead times. Explicit zero stock is different from missing stock.
 
