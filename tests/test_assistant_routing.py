@@ -19,6 +19,9 @@ from ai_assistant import (
 
 class AssistantRoutingTests(unittest.TestCase):
     def setUp(self):
+        self.key_patch = patch("ai_assistant.get_openai_api_key", return_value=None)
+        self.key_patch.start()
+        self.addCleanup(self.key_patch.stop)
         histories = [history(20, 5, "Greek Yogurt", demand=[100, 150] * 8),
                      history(500, 2, "Whole Milk", demand=[200, 202] * 8),
                      history(1800, 2, "Sour Cream", demand=362.47),
@@ -390,7 +393,7 @@ render_ai_assistant(st.session_state.analysis, 95, 2, 3)
         from urllib.error import URLError
         with patch("ai_assistant.request_ollama_chat", side_effect=URLError("offline")):
             response = answer_planning_question("Explain the planning states of Sour Cream and Whole Milk.", self.context, "local", "model")
-        self.assertIn("local explanation model is unavailable", response)
+        self.assertIn("explanation service is unavailable", response)
         self.assertIn("Sour Cream", response)
         self.assertIn("Whole Milk", response)
         self.assertIn("Run down 712 units", response)

@@ -11,11 +11,11 @@ planning priorities, and the calculations behind each recommendation.
 - Product-specific lead times, safety stock, reorder points, and daily-review inventory targets.
 - Increase, maintain, or run-down recommendations, with potential pre-arrival service gaps.
 - Interactive Plotly charts, calculation details, and CSV exports.
-- Deterministic planning answers and optional grounded natural-language explanations through local Ollama.
+- Deterministic planning answers and optional grounded natural-language explanations through OpenAI or local Ollama.
 
 Forecasting and inventory calculations are deterministic Python calculations, not
 LLM-generated numbers. The assistant answers precise factual questions directly;
-where applicable, local Ollama explains supplied results in natural language.
+where applicable, a grounded language model explains supplied results in natural language.
 Model-generated explanations can still be inaccurate and do not replace the
 calculated planning outputs.
 
@@ -50,7 +50,20 @@ Other local datasets and generated `output/` files are excluded from Git by
 default. Review a dataset's contents and sharing rights before intentionally
 adding it to a public repository. Running analysis recreates the output directory.
 
-### Optional local AI explanations
+### Optional AI explanations
+
+Set `OPENAI_API_KEY` in Streamlit Community Cloud Secrets or the environment to
+use OpenAI `gpt-5-nano` through the Responses API. Keep the actual key out of
+source code and Git; `.streamlit/secrets.toml` is ignored. Environment settings
+have precedence over Streamlit Secrets. Calculated planning context is sent to
+the selected provider only for questions that need a language-model explanation.
+
+Each such question makes at most one model request, with SDK retries disabled,
+a 30-second timeout, and a 1,200-token output budget (including reasoning).
+OpenAI failure returns calculated facts rather than making another provider call.
+Deterministic questions do not contact either provider.
+
+Without an OpenAI key, the app uses local Ollama when available:
 
 With Ollama installed, start its local service and obtain the configured model:
 
