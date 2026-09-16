@@ -113,6 +113,28 @@ class ProviderTests(unittest.TestCase):
         self.assertIn("current analysis does not contain it", body["instructions"])
         self.assertIn("Never invent a numeric value", body["instructions"])
         self.assertNotIn("test-only", body["input"])
+        for rule in [
+            "not a confirmed stockout", "does not calculate an exact stockout date",
+            "planning horizons, not exact stockout timing", "Do not describe replenishment as late",
+            "Do not assume orders can be accelerated or expedited", "lead-time changes",
+            "prioritize replenishment planning", "review replenishment options",
+            "target inventory level", "inventory on hand", "Never expose internal Python identifiers",
+            "For emails and executive summaries", "Do not mechanically list every metric",
+            "Never invent suppliers, causes, forecasts, or external information",
+        ]:
+            self.assertIn(rule, body["instructions"])
+
+
+    def test_open_ended_email_uses_existing_grounded_writing_path(self):
+        question = "Draft a manager email about the current planning situation."
+        with patch.object(assistant, "get_openai_api_key", return_value="test-only"), \
+             patch.object(assistant, "request_openai_response", return_value="Manager-facing explanation") as cloud, \
+             patch.object(assistant, "request_ollama_chat") as local:
+            self.assertEqual(self.ask(question), "Manager-facing explanation")
+            cloud.assert_called_once()
+            self.assertEqual(cloud.call_args.args[2], question)
+            self.assertEqual(cloud.call_args.args[1]["question_category"], "grounded_explanation")
+            local.assert_not_called()
 
     def test_incomplete_cloud_response_is_not_presented(self):
         with patch("openai.OpenAI") as constructor:

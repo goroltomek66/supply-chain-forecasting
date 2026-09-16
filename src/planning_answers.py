@@ -51,10 +51,10 @@ def inventory_answer(name, row, explain=False):
     text += action_text(row)
     period = row.get("protection_period_days")
     if period is not None:
-        text += f" This target covers {period:g} calendar days under daily review (lead time plus one day)."
+        text += f" This target uses a planning horizon of {period:g} calendar days under daily review (lead time plus one day), not a predicted stockout date."
     gap = row.get("pre_arrival_shortage")
     if gap is not None and gap > 0:
-        text += f" Potential pre-arrival service gap: {number(gap)} units; ordinary replenishment may arrive too late."
+        text += f" Potential pre-arrival service gap: {number(gap)} units; current inventory may not cover expected demand during lead time. Review replenishment options."
     if explain:
         score = row.get("priority_score")
         if score is not None:
@@ -125,7 +125,10 @@ def assessment_answer(payload):
             text = f"{name}: " + action_text(row) + f" Priority score: {number(row.get('priority_score'))}."
             gap = row.get("pre_arrival_shortage")
             if gap is not None and gap > 0:
-                text += f" Pre-arrival service gap: {number(gap)} units; ordinary replenishment may arrive too late."
+                text += f" Potential pre-arrival service gap: {number(gap)} units; current inventory may not cover expected demand during lead time. Review replenishment options."
+            stock, target = row.get("usable_on_hand_inventory"), row.get("order_up_to_target")
+            if stock is not None and target is not None:
+                text += f" Usable inventory on hand is {number(stock)} units versus a calculated target of about {number(target)} units."
             parts.append(text)
         parts.append("Focus first on " + ", then ".join(concerns[:3]) + ".")
     elif counts["increase_actions"] or counts["pre_arrival_service_gaps"]:
@@ -184,7 +187,7 @@ def deterministic_planning_answer(payload):
                   f"with a potential pre-arrival service gap of {number(row.get('pre_arrival_shortage'))} units. "
                   + action_text(row) + " Products are ranked by priority score (highest first), then service gap; remaining ties use product name.")
         if (row.get("pre_arrival_shortage") or 0) > 0:
-            answer += " Ordinary replenishment may arrive too late to cover that gap."
+            answer += " Current inventory may not cover expected demand during lead time. Prioritize replenishment planning and review available options."
     elif category == "summary":
         answer = assessment_answer(payload)
     else:

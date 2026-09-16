@@ -279,7 +279,7 @@ class AssistantRoutingTests(unittest.TestCase):
         for name, row in self.context["products_by_name"].items():
             self.assertIn(name + ":", answer)
             if row["pre_arrival_shortage"] > 0:
-                self.assertIn(f"Pre-arrival service gap: {row['pre_arrival_shortage']:,.0f} units", answer)
+                self.assertIn(f"Potential pre-arrival service gap: {row['pre_arrival_shortage']:,.0f} units", answer)
         self.assertNotRegex(answer.lower(), r"spoilage|waste|supplier|manageable|shipment")
 
     def test_final_model_selection_uses_current_metrics(self):
@@ -468,7 +468,7 @@ render_ai_assistant(st.session_state.analysis, 95, 2, 3)
         self.context["products_by_name"]["New Product"] = row
         answer = self.answer("What are the biggest inventory problems overall?")
         self.assertTrue(answer.startswith("New Product is the first planning concern"))
-        self.assertIn("Pre-arrival service gap: 9,999 units", answer)
+        self.assertIn("Potential pre-arrival service gap: 9,999 units", answer)
         self.assertIn("holdout MAPE 24.50%", answer)
         self.assertIn("Across 5 products", answer)
         self.assertNotRegex(answer.lower(), r"spoilage|supplier|popularity|shipment")
@@ -488,6 +488,37 @@ render_ai_assistant(st.session_state.analysis, 95, 2, 3)
         answer = self.answer("What are the biggest inventory problems?")
         self.assertTrue(answer.startswith("Greek Yogurt is the first planning concern"))
         self.assertIn("Focus first on Greek Yogurt, then Skim Milk, then Sour Cream", answer)
+
+    def test_planning_language_does_not_claim_stockout_timing_or_late_supply(self):
+        for question in [
+            "Which product needs the most attention?",
+            "What should I do about Greek Yogurt?",
+            "How much Greek Yogurt should I have on hand?",
+            "Compare Whole Milk and Greek Yogurt.",
+            "Give me a quick inventory summary.",
+        ]:
+            with self.subTest(question=question):
+                answer = self.answer(question)
+                self.assertIn("pre-arrival service gap", answer)
+                self.assertNotRegex(answer.lower(), r"will stock ?out|confirmed stockout|stockout (?:in|within)|stockout risk within|\blate\b|expedite|accelerate")
+                for field in ["order_up_to_target", "pre_arrival_gap", "pre_arrival_shortage",
+                              "on_hand_inventory", "recommended_action", "protection_period_days"]:
+                    self.assertNotIn(field, answer)
+
+    def test_protection_period_is_explicitly_a_planning_horizon(self):
+        answer = self.answer("How much Greek Yogurt should I have on hand?")
+        period = self.inventory.loc["Greek Yogurt", "protection_period_days"]
+        self.assertIn(f"planning horizon of {period:g} calendar days", answer)
+        self.assertIn("not a predicted stockout date", answer)
+        self.assertNotIn("This target covers", answer)
+
+    def test_assessment_preserves_calculated_stock_target_and_priority(self):
+        answer = self.answer("Give me a quick inventory summary.")
+        row = self.inventory.loc["Greek Yogurt"]
+        self.assertTrue(answer.startswith("Greek Yogurt is the first planning concern"))
+        self.assertIn(f"Usable inventory on hand is {row.usable_on_hand_inventory:,.0f} units versus a calculated target of about {row.order_up_to_target:,.0f} units", answer)
+        self.assertIn(f"Increase inventory by {row.recommended_quantity_adjustment:,.0f} units", answer)
+        self.assertIn(f"Potential pre-arrival service gap: {row.pre_arrival_shortage:,.0f} units", answer)
 
 
 if __name__ == "__main__":
