@@ -245,12 +245,10 @@ def select_best_forecast_for_product(
                 candidate_spec.fit_function,
                 validation_points,
             )
-            fitted_values, fitted_model = candidate_spec.fit_function(demand_series)
             candidates.append(
                 {
                     "model_name": candidate_spec.model_name,
-                    "fitted_values": fitted_values,
-                    "model": fitted_model,
+                    "fit_function": candidate_spec.fit_function,
                     "mae": validation_mae,
                     "mape": validation_mape,
                     "aic": validation_aic,
@@ -264,8 +262,22 @@ def select_best_forecast_for_product(
         raise ValueError(f"No supported model could be fit for product {product_name}")
 
     ranked_candidates = sorted(candidates, key=lambda item: (item["mae"], item["mape"], item["aic"]))
-    best_candidate = ranked_candidates[0]
-    runner_up = ranked_candidates[1] if len(ranked_candidates) > 1 else None
+    # Diagnostics describe successful holdout evaluations. Losing candidates are
+    # not fitted on full history merely to establish diagnostic eligibility.
+    for selected_index, best_candidate in enumerate(ranked_candidates):
+        try:
+            fitted_values, fitted_model = best_candidate["fit_function"](demand_series)
+        except Exception:
+            continue
+        best_candidate["fitted_values"] = fitted_values
+        best_candidate["model"] = fitted_model
+        break
+    else:
+        raise ValueError(f"No supported model could be fit for product {product_name}")
+
+    # The next holdout-ranked alternative follows the successful winner; earlier
+    # candidates that failed full fitting remain visible in the diagnostic table.
+    runner_up = ranked_candidates[selected_index + 1] if selected_index + 1 < len(ranked_candidates) else None
     top_candidates = pd.DataFrame(ranked_candidates[:3]).copy()
     top_candidates.insert(0, "rank", range(1, len(top_candidates) + 1))
     top_candidates = top_candidates.rename(columns={"model_name": "model_family", "arima_order": "arima_order"})
