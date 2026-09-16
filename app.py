@@ -872,7 +872,10 @@ def main() -> None:
     with st.sidebar:
         st.header("Configuration")
         service_level = st.number_input("Service level (%)", min_value=50.0, max_value=99.9, value=95.0, step=0.5)
-        lead_time = st.number_input("Lead time (days)", min_value=1, max_value=30, value=2, step=1)
+        lead_time = st.number_input(
+            "Default lead time (days)", min_value=1, max_value=30, value=2, step=1,
+            help="Used when product-specific lead time is unavailable.",
+        )
         forecast_horizon = st.number_input("Forecast horizon", min_value=1, max_value=30, value=14, step=1)
 
     uploaded_file = st.file_uploader("Upload demand CSV", type=["csv"])
