@@ -16,6 +16,7 @@ import streamlit as st
 from schema_normalization import normalize_output_schema
 from inventory_planning import INVENTORY_ASSUMPTION
 from planning_answers import LABELS, deterministic_planning_answer, inventory_answer
+from planning_glossary import terminology_answer
 
 
 DEFAULT_OLLAMA_BASE_URL = "http://127.0.0.1:11434"
@@ -382,6 +383,10 @@ def route_planning_question(prompt: str, context: dict[str, Any]) -> dict[str, A
     """Conservative demo routing. Replies bypass Ollama; payloads contain only relevant facts."""
     def reply(text: str, category: str = "unsupported") -> dict[str, Any]:
         return {"category": category, "reply": text, "context": None}
+
+    definition = terminology_answer(prompt)
+    if definition is not None:
+        return reply(definition, "terminology")
 
     text = _normalize_product_text(prompt)
     products = context.get("products_by_name", {})
