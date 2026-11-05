@@ -12,9 +12,14 @@ explanations.
 
 **Try the demo:** Open the live app, click **Download Demo Dataset**, upload the
 downloaded CSV, and click **Run Analysis**. The included dataset is also available
-here: [demo_dairy_demand.csv](data/demo_dairy_demand.csv).
+here: [Cargo_Data.csv](data/Cargo_Data.csv).
 
-The included dairy dataset is entirely synthetic and was created solely to demonstrate the application's forecasting and inventory-planning workflow. It does not represent actual company, customer, supplier, or operational data.
+The default demo contains entirely synthetic aviation logistics warehouse data:
+720 daily observations across six fictional cargo products over 120 days. It was
+created solely to demonstrate the application's forecasting and inventory-planning
+workflow and does not represent actual United Airlines or other company, customer,
+supplier, or operational data. Recommendations concern warehouse inventory before
+shipment, not aircraft cargo capacity or route optimization.
 
 ## How It Works
 
@@ -41,7 +46,7 @@ Ollama is a separate local service, not a Python package dependency.
 
 ## Testing
 
-The project currently has **85 automated tests** covering forecasting and inventory
+The project currently has **104 automated tests** covering forecasting and inventory
 pipeline behavior, assistant routing and grounding, and AI provider behavior.
 External API calls are mocked in tests, so tests do not spend API credits.
 
@@ -89,8 +94,10 @@ Upload a CSV, choose the planning settings, and click **Run Analysis**.
 
 The included [data/sample_demand.csv](data/sample_demand.csv) is a small, basic
 forecasting sample. It has no inventory snapshots, so inventory actions are
-withheld. Use [data/demo_dairy_demand.csv](data/demo_dairy_demand.csv) for the full
-synthetic forecasting and inventory-planning demo shown in the screenshots.
+withheld. Use [data/Cargo_Data.csv](data/Cargo_Data.csv) for the default synthetic
+cargo forecasting and inventory-planning demo. The original
+[data/demo_dairy_demand.csv](data/demo_dairy_demand.csv) remains available and is
+the dataset shown in the screenshots.
 For your own inventory-planning data, provide demand history with `date`, `product`,
 `demand`, and `on_hand_inventory`; include `lead_time_days` for product-specific
 lead times. Explicit zero stock is different from missing stock.

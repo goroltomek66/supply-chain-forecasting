@@ -1,0 +1,721 @@
+date,product,category,demand,location,on_hand_inventory,lead_time_days,expiration_date,shelf_life_days,promo_flag,price
+7/1/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,84,7,,,FALSE,2450.00
+7/1/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,438,4,10/29/26,180,FALSE,850.00
+7/1/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,2,7/4/26,5,FALSE,180.00
+7/1/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,796,5,,,FALSE,420.00
+7/1/26,Synthetic EL-45 Device Accessory Cartons,Electronics,127,Fictional Skybridge Scheduled-Demand Demo Warehouse,1439,6,,,FALSE,650.00
+7/1/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,516,Fictional Skybridge Scheduled-Demand Demo Warehouse,602,2,,,FALSE,45.00
+7/2/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+7/2/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,439,4,10/30/26,180,FALSE,850.00
+7/2/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,125,2,7/5/26,5,FALSE,180.00
+7/2/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,825,5,,,FALSE,420.00
+7/2/26,Synthetic EL-45 Device Accessory Cartons,Electronics,124,Fictional Skybridge Scheduled-Demand Demo Warehouse,1377,6,,,FALSE,650.00
+7/2/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,493,Fictional Skybridge Scheduled-Demand Demo Warehouse,606,2,,,FALSE,45.00
+7/3/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,87,7,,,FALSE,2450.00
+7/3/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,10/31/26,180,FALSE,850.00
+7/3/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,102,2,7/6/26,5,FALSE,180.00
+7/3/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,800,5,,,FALSE,420.00
+7/3/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1453,6,,,FALSE,650.00
+7/3/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,539,Fictional Skybridge Scheduled-Demand Demo Warehouse,666,2,,,FALSE,45.00
+7/4/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+7/4/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,94,Fictional Skybridge Scheduled-Demand Demo Warehouse,461,4,11/1/26,180,FALSE,850.00
+7/4/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,73,Fictional Skybridge Scheduled-Demand Demo Warehouse,108,2,7/7/26,5,FALSE,180.00
+7/4/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,844,5,,,FALSE,420.00
+7/4/26,Synthetic EL-45 Device Accessory Cartons,Electronics,119,Fictional Skybridge Scheduled-Demand Demo Warehouse,1472,6,,,FALSE,650.00
+7/4/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,510,Fictional Skybridge Scheduled-Demand Demo Warehouse,594,2,,,FALSE,45.00
+7/5/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+7/5/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,97,Fictional Skybridge Scheduled-Demand Demo Warehouse,452,4,11/2/26,180,FALSE,850.00
+7/5/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,71,Fictional Skybridge Scheduled-Demand Demo Warehouse,123,2,7/8/26,5,FALSE,180.00
+7/5/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,792,5,,,FALSE,420.00
+7/5/26,Synthetic EL-45 Device Accessory Cartons,Electronics,113,Fictional Skybridge Scheduled-Demand Demo Warehouse,1362,6,,,FALSE,650.00
+7/5/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,478,Fictional Skybridge Scheduled-Demand Demo Warehouse,665,2,,,FALSE,45.00
+7/6/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+7/6/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,457,4,11/3/26,180,FALSE,850.00
+7/6/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,2,7/9/26,5,FALSE,180.00
+7/6/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,817,5,,,FALSE,420.00
+7/6/26,Synthetic EL-45 Device Accessory Cartons,Electronics,126,Fictional Skybridge Scheduled-Demand Demo Warehouse,1343,6,,,FALSE,650.00
+7/6/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,536,Fictional Skybridge Scheduled-Demand Demo Warehouse,557,2,,,FALSE,45.00
+7/7/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+7/7/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,480,4,11/4/26,180,FALSE,850.00
+7/7/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,80,Fictional Skybridge Scheduled-Demand Demo Warehouse,110,2,7/10/26,5,FALSE,180.00
+7/7/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,843,5,,,FALSE,420.00
+7/7/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1373,6,,,FALSE,650.00
+7/7/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,525,Fictional Skybridge Scheduled-Demand Demo Warehouse,629,2,,,FALSE,45.00
+7/8/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,104,7,,,FALSE,2450.00
+7/8/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,97,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,11/5/26,180,FALSE,850.00
+7/8/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,82,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,2,7/11/26,5,FALSE,180.00
+7/8/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,808,5,,,FALSE,420.00
+7/8/26,Synthetic EL-45 Device Accessory Cartons,Electronics,135,Fictional Skybridge Scheduled-Demand Demo Warehouse,1310,6,,,FALSE,650.00
+7/8/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,514,Fictional Skybridge Scheduled-Demand Demo Warehouse,600,2,,,FALSE,45.00
+7/9/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,93,7,,,FALSE,2450.00
+7/9/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,442,4,11/6/26,180,FALSE,850.00
+7/9/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,7/12/26,5,FALSE,180.00
+7/9/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,792,5,,,FALSE,420.00
+7/9/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1398,6,,,FALSE,650.00
+7/9/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,542,Fictional Skybridge Scheduled-Demand Demo Warehouse,619,2,,,FALSE,45.00
+7/10/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,87,7,,,FALSE,2450.00
+7/10/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,466,4,11/7/26,180,FALSE,850.00
+7/10/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,107,2,7/13/26,5,FALSE,180.00
+7/10/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,824,5,,,FALSE,420.00
+7/10/26,Synthetic EL-45 Device Accessory Cartons,Electronics,135,Fictional Skybridge Scheduled-Demand Demo Warehouse,1443,6,,,FALSE,650.00
+7/10/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,559,Fictional Skybridge Scheduled-Demand Demo Warehouse,628,2,,,FALSE,45.00
+7/11/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,16,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,7,,,FALSE,2450.00
+7/11/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,96,Fictional Skybridge Scheduled-Demand Demo Warehouse,432,4,11/8/26,180,FALSE,850.00
+7/11/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,71,Fictional Skybridge Scheduled-Demand Demo Warehouse,104,2,7/14/26,5,FALSE,180.00
+7/11/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,71,Fictional Skybridge Scheduled-Demand Demo Warehouse,849,5,,,FALSE,420.00
+7/11/26,Synthetic EL-45 Device Accessory Cartons,Electronics,115,Fictional Skybridge Scheduled-Demand Demo Warehouse,1351,6,,,FALSE,650.00
+7/11/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,475,Fictional Skybridge Scheduled-Demand Demo Warehouse,602,2,,,FALSE,45.00
+7/12/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,96,7,,,FALSE,2450.00
+7/12/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,11/9/26,180,FALSE,850.00
+7/12/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,64,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,7/15/26,5,FALSE,180.00
+7/12/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,80,Fictional Skybridge Scheduled-Demand Demo Warehouse,766,5,,,FALSE,420.00
+7/12/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1341,6,,,TRUE,650.00
+7/12/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,466,Fictional Skybridge Scheduled-Demand Demo Warehouse,616,2,,,FALSE,45.00
+7/13/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,87,7,,,FALSE,2450.00
+7/13/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,469,4,11/10/26,180,FALSE,850.00
+7/13/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,124,2,7/16/26,5,FALSE,180.00
+7/13/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,778,5,,,FALSE,420.00
+7/13/26,Synthetic EL-45 Device Accessory Cartons,Electronics,126,Fictional Skybridge Scheduled-Demand Demo Warehouse,1527,6,,,FALSE,650.00
+7/13/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,547,Fictional Skybridge Scheduled-Demand Demo Warehouse,618,2,,,FALSE,45.00
+7/14/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,95,7,,,FALSE,2450.00
+7/14/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,430,4,11/11/26,180,FALSE,850.00
+7/14/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,126,2,7/17/26,5,FALSE,180.00
+7/14/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,795,5,,,FALSE,420.00
+7/14/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1401,6,,,FALSE,650.00
+7/14/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,522,Fictional Skybridge Scheduled-Demand Demo Warehouse,603,2,,,FALSE,45.00
+7/15/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,100,7,,,FALSE,2450.00
+7/15/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,474,4,11/12/26,180,FALSE,850.00
+7/15/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,7/18/26,5,FALSE,180.00
+7/15/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,821,5,,,FALSE,420.00
+7/15/26,Synthetic EL-45 Device Accessory Cartons,Electronics,119,Fictional Skybridge Scheduled-Demand Demo Warehouse,1440,6,,,FALSE,650.00
+7/15/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,534,Fictional Skybridge Scheduled-Demand Demo Warehouse,615,2,,,FALSE,45.00
+7/16/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+7/16/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,442,4,11/13/26,180,FALSE,850.00
+7/16/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,103,2,7/19/26,5,FALSE,180.00
+7/16/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,861,5,,,FALSE,420.00
+7/16/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1365,6,,,FALSE,650.00
+7/16/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,477,Fictional Skybridge Scheduled-Demand Demo Warehouse,591,2,,,FALSE,45.00
+7/17/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+7/17/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,458,4,11/14/26,180,FALSE,850.00
+7/17/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,136,2,7/20/26,5,FALSE,180.00
+7/17/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,801,5,,,FALSE,420.00
+7/17/26,Synthetic EL-45 Device Accessory Cartons,Electronics,128,Fictional Skybridge Scheduled-Demand Demo Warehouse,1419,6,,,FALSE,650.00
+7/17/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,631,Fictional Skybridge Scheduled-Demand Demo Warehouse,609,2,,,TRUE,45.00
+7/18/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,80,7,,,FALSE,2450.00
+7/18/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,483,4,11/15/26,180,FALSE,850.00
+7/18/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,75,Fictional Skybridge Scheduled-Demand Demo Warehouse,121,2,7/21/26,5,FALSE,180.00
+7/18/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,880,5,,,FALSE,420.00
+7/18/26,Synthetic EL-45 Device Accessory Cartons,Electronics,120,Fictional Skybridge Scheduled-Demand Demo Warehouse,1427,6,,,FALSE,650.00
+7/18/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,472,Fictional Skybridge Scheduled-Demand Demo Warehouse,645,2,,,FALSE,45.00
+7/19/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,96,7,,,FALSE,2450.00
+7/19/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,445,4,11/16/26,180,FALSE,850.00
+7/19/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,66,Fictional Skybridge Scheduled-Demand Demo Warehouse,108,2,7/22/26,5,FALSE,180.00
+7/19/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,76,Fictional Skybridge Scheduled-Demand Demo Warehouse,765,5,,,FALSE,420.00
+7/19/26,Synthetic EL-45 Device Accessory Cartons,Electronics,111,Fictional Skybridge Scheduled-Demand Demo Warehouse,1377,6,,,FALSE,650.00
+7/19/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,449,Fictional Skybridge Scheduled-Demand Demo Warehouse,616,2,,,FALSE,45.00
+7/20/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,83,7,,,FALSE,2450.00
+7/20/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,107,Fictional Skybridge Scheduled-Demand Demo Warehouse,468,4,11/17/26,180,FALSE,850.00
+7/20/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,113,2,7/23/26,5,FALSE,180.00
+7/20/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,772,5,,,FALSE,420.00
+7/20/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1451,6,,,FALSE,650.00
+7/20/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,560,Fictional Skybridge Scheduled-Demand Demo Warehouse,596,2,,,FALSE,45.00
+7/21/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+7/21/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,96,Fictional Skybridge Scheduled-Demand Demo Warehouse,467,4,11/18/26,180,FALSE,850.00
+7/21/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,77,Fictional Skybridge Scheduled-Demand Demo Warehouse,106,2,7/24/26,5,FALSE,180.00
+7/21/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,786,5,,,FALSE,420.00
+7/21/26,Synthetic EL-45 Device Accessory Cartons,Electronics,127,Fictional Skybridge Scheduled-Demand Demo Warehouse,1413,6,,,FALSE,650.00
+7/21/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,535,Fictional Skybridge Scheduled-Demand Demo Warehouse,624,2,,,FALSE,45.00
+7/22/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,73,7,,,FALSE,2450.00
+7/22/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,468,4,11/19/26,180,FALSE,850.00
+7/22/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,7/25/26,5,FALSE,180.00
+7/22/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,813,5,,,FALSE,420.00
+7/22/26,Synthetic EL-45 Device Accessory Cartons,Electronics,122,Fictional Skybridge Scheduled-Demand Demo Warehouse,1406,6,,,FALSE,650.00
+7/22/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,593,Fictional Skybridge Scheduled-Demand Demo Warehouse,629,2,,,TRUE,45.00
+7/23/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,95,7,,,FALSE,2450.00
+7/23/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,417,4,11/20/26,180,FALSE,850.00
+7/23/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,7/26/26,5,FALSE,180.00
+7/23/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,82,Fictional Skybridge Scheduled-Demand Demo Warehouse,759,5,,,FALSE,420.00
+7/23/26,Synthetic EL-45 Device Accessory Cartons,Electronics,127,Fictional Skybridge Scheduled-Demand Demo Warehouse,1368,6,,,FALSE,650.00
+7/23/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,546,Fictional Skybridge Scheduled-Demand Demo Warehouse,627,2,,,FALSE,45.00
+7/24/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,84,7,,,FALSE,2450.00
+7/24/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,461,4,11/21/26,180,FALSE,850.00
+7/24/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,75,Fictional Skybridge Scheduled-Demand Demo Warehouse,115,2,7/27/26,5,FALSE,180.00
+7/24/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,831,5,,,FALSE,420.00
+7/24/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1574,6,,,FALSE,650.00
+7/24/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,546,Fictional Skybridge Scheduled-Demand Demo Warehouse,630,2,,,FALSE,45.00
+7/25/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,95,7,,,FALSE,2450.00
+7/25/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,441,4,11/22/26,180,FALSE,850.00
+7/25/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,76,Fictional Skybridge Scheduled-Demand Demo Warehouse,122,2,7/28/26,5,FALSE,180.00
+7/25/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,807,5,,,FALSE,420.00
+7/25/26,Synthetic EL-45 Device Accessory Cartons,Electronics,112,Fictional Skybridge Scheduled-Demand Demo Warehouse,1411,6,,,FALSE,650.00
+7/25/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,468,Fictional Skybridge Scheduled-Demand Demo Warehouse,572,2,,,FALSE,45.00
+7/26/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+7/26/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,459,4,11/23/26,180,FALSE,850.00
+7/26/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,70,Fictional Skybridge Scheduled-Demand Demo Warehouse,124,2,7/29/26,5,FALSE,180.00
+7/26/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,783,5,,,FALSE,420.00
+7/26/26,Synthetic EL-45 Device Accessory Cartons,Electronics,120,Fictional Skybridge Scheduled-Demand Demo Warehouse,1384,6,,,FALSE,650.00
+7/26/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,460,Fictional Skybridge Scheduled-Demand Demo Warehouse,651,2,,,FALSE,45.00
+7/27/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,94,7,,,FALSE,2450.00
+7/27/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,449,4,11/24/26,180,FALSE,850.00
+7/27/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,128,2,7/30/26,5,FALSE,180.00
+7/27/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,786,5,,,FALSE,420.00
+7/27/26,Synthetic EL-45 Device Accessory Cartons,Electronics,128,Fictional Skybridge Scheduled-Demand Demo Warehouse,1368,6,,,FALSE,650.00
+7/27/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,549,Fictional Skybridge Scheduled-Demand Demo Warehouse,604,2,,,FALSE,45.00
+7/28/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,106,7,,,FALSE,2450.00
+7/28/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,416,4,11/25/26,180,FALSE,850.00
+7/28/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,127,2,7/31/26,5,FALSE,180.00
+7/28/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,780,5,,,FALSE,420.00
+7/28/26,Synthetic EL-45 Device Accessory Cartons,Electronics,124,Fictional Skybridge Scheduled-Demand Demo Warehouse,1306,6,,,FALSE,650.00
+7/28/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,588,Fictional Skybridge Scheduled-Demand Demo Warehouse,618,2,,,TRUE,45.00
+7/29/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+7/29/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,96,Fictional Skybridge Scheduled-Demand Demo Warehouse,469,4,11/26/26,180,FALSE,850.00
+7/29/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,121,2,8/1/26,5,FALSE,180.00
+7/29/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,742,5,,,FALSE,420.00
+7/29/26,Synthetic EL-45 Device Accessory Cartons,Electronics,128,Fictional Skybridge Scheduled-Demand Demo Warehouse,1367,6,,,FALSE,650.00
+7/29/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,536,Fictional Skybridge Scheduled-Demand Demo Warehouse,567,2,,,FALSE,45.00
+7/30/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,7,,,FALSE,2450.00
+7/30/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,11/27/26,180,FALSE,850.00
+7/30/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,127,2,8/2/26,5,FALSE,180.00
+7/30/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,809,5,,,FALSE,420.00
+7/30/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1318,6,,,FALSE,650.00
+7/30/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,539,Fictional Skybridge Scheduled-Demand Demo Warehouse,557,2,,,FALSE,45.00
+7/31/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+7/31/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,454,4,11/28/26,180,FALSE,850.00
+7/31/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,123,2,8/3/26,5,FALSE,180.00
+7/31/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,780,5,,,FALSE,420.00
+7/31/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1366,6,,,FALSE,650.00
+7/31/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,562,Fictional Skybridge Scheduled-Demand Demo Warehouse,664,2,,,FALSE,45.00
+8/1/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+8/1/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,424,4,11/29/26,180,FALSE,850.00
+8/1/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,130,2,8/4/26,5,FALSE,180.00
+8/1/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,783,5,,,FALSE,420.00
+8/1/26,Synthetic EL-45 Device Accessory Cartons,Electronics,114,Fictional Skybridge Scheduled-Demand Demo Warehouse,1363,6,,,FALSE,650.00
+8/1/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,495,Fictional Skybridge Scheduled-Demand Demo Warehouse,609,2,,,FALSE,45.00
+8/2/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+8/2/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,423,4,11/30/26,180,FALSE,850.00
+8/2/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,62,Fictional Skybridge Scheduled-Demand Demo Warehouse,115,2,8/5/26,5,FALSE,180.00
+8/2/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,837,5,,,FALSE,420.00
+8/2/26,Synthetic EL-45 Device Accessory Cartons,Electronics,121,Fictional Skybridge Scheduled-Demand Demo Warehouse,1418,6,,,FALSE,650.00
+8/2/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,479,Fictional Skybridge Scheduled-Demand Demo Warehouse,624,2,,,FALSE,45.00
+8/3/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,93,7,,,FALSE,2450.00
+8/3/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,113,Fictional Skybridge Scheduled-Demand Demo Warehouse,481,4,12/1/26,180,FALSE,850.00
+8/3/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,82,Fictional Skybridge Scheduled-Demand Demo Warehouse,123,2,8/6/26,5,FALSE,180.00
+8/3/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,812,5,,,FALSE,420.00
+8/3/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1469,6,,,FALSE,650.00
+8/3/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,577,Fictional Skybridge Scheduled-Demand Demo Warehouse,576,2,,,FALSE,45.00
+8/4/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+8/4/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,449,4,12/2/26,180,FALSE,850.00
+8/4/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,107,2,8/7/26,5,FALSE,180.00
+8/4/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,830,5,,,FALSE,420.00
+8/4/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1427,6,,,FALSE,650.00
+8/4/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,465,Fictional Skybridge Scheduled-Demand Demo Warehouse,553,2,,,FALSE,45.00
+8/5/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+8/5/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,474,4,12/3/26,180,FALSE,850.00
+8/5/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,115,2,8/8/26,5,FALSE,180.00
+8/5/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,93,Fictional Skybridge Scheduled-Demand Demo Warehouse,814,5,,,FALSE,420.00
+8/5/26,Synthetic EL-45 Device Accessory Cartons,Electronics,127,Fictional Skybridge Scheduled-Demand Demo Warehouse,1438,6,,,FALSE,650.00
+8/5/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,571,Fictional Skybridge Scheduled-Demand Demo Warehouse,578,2,,,FALSE,45.00
+8/6/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+8/6/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,119,Fictional Skybridge Scheduled-Demand Demo Warehouse,435,4,12/4/26,180,FALSE,850.00
+8/6/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,8/9/26,5,FALSE,180.00
+8/6/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,778,5,,,FALSE,420.00
+8/6/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1286,6,,,FALSE,650.00
+8/6/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,542,Fictional Skybridge Scheduled-Demand Demo Warehouse,637,2,,,FALSE,45.00
+8/7/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+8/7/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,476,4,12/5/26,180,FALSE,850.00
+8/7/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,102,2,8/10/26,5,FALSE,180.00
+8/7/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,756,5,,,FALSE,420.00
+8/7/26,Synthetic EL-45 Device Accessory Cartons,Electronics,117,Fictional Skybridge Scheduled-Demand Demo Warehouse,1462,6,,,FALSE,650.00
+8/7/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,574,Fictional Skybridge Scheduled-Demand Demo Warehouse,565,2,,,FALSE,45.00
+8/8/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+8/8/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,97,Fictional Skybridge Scheduled-Demand Demo Warehouse,450,4,12/6/26,180,FALSE,850.00
+8/8/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,8/11/26,5,FALSE,180.00
+8/8/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,843,5,,,FALSE,420.00
+8/8/26,Synthetic EL-45 Device Accessory Cartons,Electronics,121,Fictional Skybridge Scheduled-Demand Demo Warehouse,1403,6,,,FALSE,650.00
+8/8/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,529,Fictional Skybridge Scheduled-Demand Demo Warehouse,625,2,,,FALSE,45.00
+8/9/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+8/9/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,97,Fictional Skybridge Scheduled-Demand Demo Warehouse,461,4,12/7/26,180,FALSE,850.00
+8/9/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,69,Fictional Skybridge Scheduled-Demand Demo Warehouse,119,2,8/12/26,5,FALSE,180.00
+8/9/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,82,Fictional Skybridge Scheduled-Demand Demo Warehouse,798,5,,,FALSE,420.00
+8/9/26,Synthetic EL-45 Device Accessory Cartons,Electronics,122,Fictional Skybridge Scheduled-Demand Demo Warehouse,1522,6,,,FALSE,650.00
+8/9/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,486,Fictional Skybridge Scheduled-Demand Demo Warehouse,595,2,,,FALSE,45.00
+8/10/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,80,7,,,FALSE,2450.00
+8/10/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,518,4,12/8/26,180,FALSE,850.00
+8/10/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,2,8/13/26,5,FALSE,180.00
+8/10/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,94,Fictional Skybridge Scheduled-Demand Demo Warehouse,803,5,,,FALSE,420.00
+8/10/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1389,6,,,FALSE,650.00
+8/10/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,605,Fictional Skybridge Scheduled-Demand Demo Warehouse,545,2,,,FALSE,45.00
+8/11/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+8/11/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,441,4,12/9/26,180,FALSE,850.00
+8/11/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,80,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,8/14/26,5,FALSE,180.00
+8/11/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,818,5,,,FALSE,420.00
+8/11/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1383,6,,,FALSE,650.00
+8/11/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,536,Fictional Skybridge Scheduled-Demand Demo Warehouse,569,2,,,FALSE,45.00
+8/12/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,83,7,,,FALSE,2450.00
+8/12/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,469,4,12/10/26,180,FALSE,850.00
+8/12/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,8/15/26,5,FALSE,180.00
+8/12/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,762,5,,,FALSE,420.00
+8/12/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1421,6,,,FALSE,650.00
+8/12/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,516,Fictional Skybridge Scheduled-Demand Demo Warehouse,559,2,,,FALSE,45.00
+8/13/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,98,7,,,FALSE,2450.00
+8/13/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,106,Fictional Skybridge Scheduled-Demand Demo Warehouse,449,4,12/11/26,180,FALSE,850.00
+8/13/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,121,2,8/16/26,5,FALSE,180.00
+8/13/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,784,5,,,FALSE,420.00
+8/13/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1372,6,,,FALSE,650.00
+8/13/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,526,Fictional Skybridge Scheduled-Demand Demo Warehouse,599,2,,,FALSE,45.00
+8/14/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,98,7,,,FALSE,2450.00
+8/14/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,415,4,12/12/26,180,FALSE,850.00
+8/14/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,116,2,8/17/26,5,FALSE,180.00
+8/14/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,845,5,,,FALSE,420.00
+8/14/26,Synthetic EL-45 Device Accessory Cartons,Electronics,137,Fictional Skybridge Scheduled-Demand Demo Warehouse,1360,6,,,FALSE,650.00
+8/14/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,559,Fictional Skybridge Scheduled-Demand Demo Warehouse,616,2,,,FALSE,45.00
+8/15/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,96,7,,,FALSE,2450.00
+8/15/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,96,Fictional Skybridge Scheduled-Demand Demo Warehouse,438,4,12/13/26,180,FALSE,850.00
+8/15/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,70,Fictional Skybridge Scheduled-Demand Demo Warehouse,111,2,8/18/26,5,FALSE,180.00
+8/15/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,804,5,,,FALSE,420.00
+8/15/26,Synthetic EL-45 Device Accessory Cartons,Electronics,120,Fictional Skybridge Scheduled-Demand Demo Warehouse,1356,6,,,FALSE,650.00
+8/15/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,492,Fictional Skybridge Scheduled-Demand Demo Warehouse,616,2,,,FALSE,45.00
+8/16/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+8/16/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,444,4,12/14/26,180,FALSE,850.00
+8/16/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,71,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,8/19/26,5,FALSE,180.00
+8/16/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,77,Fictional Skybridge Scheduled-Demand Demo Warehouse,811,5,,,FALSE,420.00
+8/16/26,Synthetic EL-45 Device Accessory Cartons,Electronics,117,Fictional Skybridge Scheduled-Demand Demo Warehouse,1514,6,,,FALSE,650.00
+8/16/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,468,Fictional Skybridge Scheduled-Demand Demo Warehouse,556,2,,,FALSE,45.00
+8/17/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,7,,,FALSE,2450.00
+8/17/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,12/15/26,180,FALSE,850.00
+8/17/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,95,2,8/20/26,5,FALSE,180.00
+8/17/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,76,Fictional Skybridge Scheduled-Demand Demo Warehouse,818,5,,,FALSE,420.00
+8/17/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1326,6,,,FALSE,650.00
+8/17/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,582,Fictional Skybridge Scheduled-Demand Demo Warehouse,582,2,,,FALSE,45.00
+8/18/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,93,7,,,FALSE,2450.00
+8/18/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,452,4,12/16/26,180,FALSE,850.00
+8/18/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,75,Fictional Skybridge Scheduled-Demand Demo Warehouse,119,2,8/21/26,5,FALSE,180.00
+8/18/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,804,5,,,FALSE,420.00
+8/18/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1378,6,,,FALSE,650.00
+8/18/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,553,Fictional Skybridge Scheduled-Demand Demo Warehouse,649,2,,,FALSE,45.00
+8/19/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+8/19/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,455,4,12/17/26,180,FALSE,850.00
+8/19/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,8/22/26,5,FALSE,180.00
+8/19/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,827,5,,,FALSE,420.00
+8/19/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1298,6,,,FALSE,650.00
+8/19/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,521,Fictional Skybridge Scheduled-Demand Demo Warehouse,625,2,,,FALSE,45.00
+8/20/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,95,7,,,FALSE,2450.00
+8/20/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,408,4,12/18/26,180,FALSE,850.00
+8/20/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,113,2,8/23/26,5,FALSE,180.00
+8/20/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,792,5,,,FALSE,420.00
+8/20/26,Synthetic EL-45 Device Accessory Cartons,Electronics,122,Fictional Skybridge Scheduled-Demand Demo Warehouse,1366,6,,,FALSE,650.00
+8/20/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,526,Fictional Skybridge Scheduled-Demand Demo Warehouse,577,2,,,FALSE,45.00
+8/21/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+8/21/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,443,4,12/19/26,180,FALSE,850.00
+8/21/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,8/24/26,5,FALSE,180.00
+8/21/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,810,5,,,FALSE,420.00
+8/21/26,Synthetic EL-45 Device Accessory Cartons,Electronics,127,Fictional Skybridge Scheduled-Demand Demo Warehouse,1382,6,,,FALSE,650.00
+8/21/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,563,Fictional Skybridge Scheduled-Demand Demo Warehouse,609,2,,,FALSE,45.00
+8/22/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,100,7,,,FALSE,2450.00
+8/22/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,436,4,12/20/26,180,FALSE,850.00
+8/22/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,71,Fictional Skybridge Scheduled-Demand Demo Warehouse,116,2,8/25/26,5,FALSE,180.00
+8/22/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,760,5,,,FALSE,420.00
+8/22/26,Synthetic EL-45 Device Accessory Cartons,Electronics,119,Fictional Skybridge Scheduled-Demand Demo Warehouse,1355,6,,,FALSE,650.00
+8/22/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,539,Fictional Skybridge Scheduled-Demand Demo Warehouse,670,2,,,FALSE,45.00
+8/23/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,100,7,,,FALSE,2450.00
+8/23/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,463,4,12/21/26,180,FALSE,850.00
+8/23/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,66,Fictional Skybridge Scheduled-Demand Demo Warehouse,119,2,8/26/26,5,FALSE,180.00
+8/23/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,752,5,,,FALSE,420.00
+8/23/26,Synthetic EL-45 Device Accessory Cartons,Electronics,120,Fictional Skybridge Scheduled-Demand Demo Warehouse,1280,6,,,FALSE,650.00
+8/23/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,492,Fictional Skybridge Scheduled-Demand Demo Warehouse,602,2,,,FALSE,45.00
+8/24/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+8/24/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,423,4,12/22/26,180,FALSE,850.00
+8/24/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,119,2,8/27/26,5,FALSE,180.00
+8/24/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,822,5,,,FALSE,420.00
+8/24/26,Synthetic EL-45 Device Accessory Cartons,Electronics,137,Fictional Skybridge Scheduled-Demand Demo Warehouse,1408,6,,,FALSE,650.00
+8/24/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,548,Fictional Skybridge Scheduled-Demand Demo Warehouse,619,2,,,FALSE,45.00
+8/25/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,91,7,,,FALSE,2450.00
+8/25/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,430,4,12/23/26,180,FALSE,850.00
+8/25/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,126,2,8/28/26,5,FALSE,180.00
+8/25/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,73,Fictional Skybridge Scheduled-Demand Demo Warehouse,816,5,,,FALSE,420.00
+8/25/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1437,6,,,FALSE,650.00
+8/25/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,535,Fictional Skybridge Scheduled-Demand Demo Warehouse,598,2,,,FALSE,45.00
+8/26/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+8/26/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,443,4,12/24/26,180,FALSE,850.00
+8/26/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,8/29/26,5,FALSE,180.00
+8/26/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,94,Fictional Skybridge Scheduled-Demand Demo Warehouse,778,5,,,FALSE,420.00
+8/26/26,Synthetic EL-45 Device Accessory Cartons,Electronics,128,Fictional Skybridge Scheduled-Demand Demo Warehouse,1340,6,,,FALSE,650.00
+8/26/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,582,Fictional Skybridge Scheduled-Demand Demo Warehouse,573,2,,,TRUE,45.00
+8/27/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+8/27/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,434,4,12/25/26,180,FALSE,850.00
+8/27/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,2,8/30/26,5,FALSE,180.00
+8/27/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,853,5,,,FALSE,420.00
+8/27/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1373,6,,,FALSE,650.00
+8/27/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,553,Fictional Skybridge Scheduled-Demand Demo Warehouse,541,2,,,FALSE,45.00
+8/28/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+8/28/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,443,4,12/26/26,180,FALSE,850.00
+8/28/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,2,8/31/26,5,FALSE,180.00
+8/28/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,91,Fictional Skybridge Scheduled-Demand Demo Warehouse,750,5,,,FALSE,420.00
+8/28/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1396,6,,,FALSE,650.00
+8/28/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,584,Fictional Skybridge Scheduled-Demand Demo Warehouse,600,2,,,FALSE,45.00
+8/29/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,94,7,,,FALSE,2450.00
+8/29/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,456,4,12/27/26,180,FALSE,850.00
+8/29/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,75,Fictional Skybridge Scheduled-Demand Demo Warehouse,116,2,9/1/26,5,FALSE,180.00
+8/29/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,800,5,,,FALSE,420.00
+8/29/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1401,6,,,FALSE,650.00
+8/29/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,525,Fictional Skybridge Scheduled-Demand Demo Warehouse,600,2,,,FALSE,45.00
+8/30/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,84,7,,,FALSE,2450.00
+8/30/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,475,4,12/28/26,180,FALSE,850.00
+8/30/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,73,Fictional Skybridge Scheduled-Demand Demo Warehouse,143,2,9/2/26,5,FALSE,180.00
+8/30/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,829,5,,,FALSE,420.00
+8/30/26,Synthetic EL-45 Device Accessory Cartons,Electronics,123,Fictional Skybridge Scheduled-Demand Demo Warehouse,1345,6,,,FALSE,650.00
+8/30/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,492,Fictional Skybridge Scheduled-Demand Demo Warehouse,585,2,,,FALSE,45.00
+8/31/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,21,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+8/31/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,475,4,12/29/26,180,FALSE,850.00
+8/31/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,117,2,9/3/26,5,FALSE,180.00
+8/31/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,775,5,,,FALSE,420.00
+8/31/26,Synthetic EL-45 Device Accessory Cartons,Electronics,135,Fictional Skybridge Scheduled-Demand Demo Warehouse,1319,6,,,FALSE,650.00
+8/31/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,528,Fictional Skybridge Scheduled-Demand Demo Warehouse,574,2,,,FALSE,45.00
+9/1/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,104,7,,,FALSE,2450.00
+9/1/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,434,4,12/30/26,180,FALSE,850.00
+9/1/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,9/4/26,5,FALSE,180.00
+9/1/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,817,5,,,FALSE,420.00
+9/1/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1352,6,,,FALSE,650.00
+9/1/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,628,Fictional Skybridge Scheduled-Demand Demo Warehouse,665,2,,,FALSE,45.00
+9/2/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+9/2/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,451,4,12/31/26,180,FALSE,850.00
+9/2/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,122,2,9/5/26,5,FALSE,180.00
+9/2/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,93,Fictional Skybridge Scheduled-Demand Demo Warehouse,794,5,,,FALSE,420.00
+9/2/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1392,6,,,FALSE,650.00
+9/2/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,552,Fictional Skybridge Scheduled-Demand Demo Warehouse,620,2,,,FALSE,45.00
+9/3/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+9/3/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,440,4,1/1/27,180,FALSE,850.00
+9/3/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,100,2,9/6/26,5,FALSE,180.00
+9/3/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,793,5,,,FALSE,420.00
+9/3/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1370,6,,,FALSE,650.00
+9/3/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,543,Fictional Skybridge Scheduled-Demand Demo Warehouse,555,2,,,FALSE,45.00
+9/4/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,93,7,,,FALSE,2450.00
+9/4/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,452,4,1/2/27,180,FALSE,850.00
+9/4/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,9/7/26,5,FALSE,180.00
+9/4/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,766,5,,,FALSE,420.00
+9/4/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1363,6,,,FALSE,650.00
+9/4/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,582,Fictional Skybridge Scheduled-Demand Demo Warehouse,574,2,,,FALSE,45.00
+9/5/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,106,7,,,FALSE,2450.00
+9/5/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,429,4,1/3/27,180,FALSE,850.00
+9/5/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,9/8/26,5,FALSE,180.00
+9/5/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,796,5,,,FALSE,420.00
+9/5/26,Synthetic EL-45 Device Accessory Cartons,Electronics,126,Fictional Skybridge Scheduled-Demand Demo Warehouse,1428,6,,,FALSE,650.00
+9/5/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,482,Fictional Skybridge Scheduled-Demand Demo Warehouse,633,2,,,FALSE,45.00
+9/6/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,7,,,FALSE,2450.00
+9/6/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,96,Fictional Skybridge Scheduled-Demand Demo Warehouse,413,4,1/4/27,180,FALSE,850.00
+9/6/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,72,Fictional Skybridge Scheduled-Demand Demo Warehouse,128,2,9/9/26,5,FALSE,180.00
+9/6/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,776,5,,,FALSE,420.00
+9/6/26,Synthetic EL-45 Device Accessory Cartons,Electronics,120,Fictional Skybridge Scheduled-Demand Demo Warehouse,1300,6,,,FALSE,650.00
+9/6/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,465,Fictional Skybridge Scheduled-Demand Demo Warehouse,634,2,,,FALSE,45.00
+9/7/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+9/7/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,437,4,1/5/27,180,FALSE,850.00
+9/7/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,129,2,9/10/26,5,FALSE,180.00
+9/7/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,787,5,,,FALSE,420.00
+9/7/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1404,6,,,FALSE,650.00
+9/7/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,545,Fictional Skybridge Scheduled-Demand Demo Warehouse,604,2,,,FALSE,45.00
+9/8/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,84,7,,,FALSE,2450.00
+9/8/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,459,4,1/6/27,180,FALSE,850.00
+9/8/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,80,Fictional Skybridge Scheduled-Demand Demo Warehouse,108,2,9/11/26,5,FALSE,180.00
+9/8/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,836,5,,,FALSE,420.00
+9/8/26,Synthetic EL-45 Device Accessory Cartons,Electronics,128,Fictional Skybridge Scheduled-Demand Demo Warehouse,1512,6,,,FALSE,650.00
+9/8/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,516,Fictional Skybridge Scheduled-Demand Demo Warehouse,566,2,,,FALSE,45.00
+9/9/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,93,7,,,FALSE,2450.00
+9/9/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,435,4,1/7/27,180,FALSE,850.00
+9/9/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,9/12/26,5,FALSE,180.00
+9/9/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,812,5,,,FALSE,420.00
+9/9/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1459,6,,,FALSE,650.00
+9/9/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,536,Fictional Skybridge Scheduled-Demand Demo Warehouse,584,2,,,FALSE,45.00
+9/10/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+9/10/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,106,Fictional Skybridge Scheduled-Demand Demo Warehouse,452,4,1/8/27,180,FALSE,850.00
+9/10/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,120,2,9/13/26,5,FALSE,180.00
+9/10/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,749,5,,,FALSE,420.00
+9/10/26,Synthetic EL-45 Device Accessory Cartons,Electronics,134,Fictional Skybridge Scheduled-Demand Demo Warehouse,1441,6,,,FALSE,650.00
+9/10/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,568,Fictional Skybridge Scheduled-Demand Demo Warehouse,594,2,,,FALSE,45.00
+9/11/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+9/11/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,377,4,1/9/27,180,FALSE,850.00
+9/11/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,113,2,9/14/26,5,FALSE,180.00
+9/11/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,817,5,,,FALSE,420.00
+9/11/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1306,6,,,FALSE,650.00
+9/11/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,563,Fictional Skybridge Scheduled-Demand Demo Warehouse,598,2,,,FALSE,45.00
+9/12/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,91,7,,,FALSE,2450.00
+9/12/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,106,Fictional Skybridge Scheduled-Demand Demo Warehouse,453,4,1/10/27,180,FALSE,850.00
+9/12/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,115,2,9/15/26,5,FALSE,180.00
+9/12/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,762,5,,,FALSE,420.00
+9/12/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1438,6,,,FALSE,650.00
+9/12/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,513,Fictional Skybridge Scheduled-Demand Demo Warehouse,643,2,,,FALSE,45.00
+9/13/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+9/13/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,97,Fictional Skybridge Scheduled-Demand Demo Warehouse,437,4,1/11/27,180,FALSE,850.00
+9/13/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,68,Fictional Skybridge Scheduled-Demand Demo Warehouse,107,2,9/16/26,5,FALSE,180.00
+9/13/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,866,5,,,FALSE,420.00
+9/13/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1432,6,,,FALSE,650.00
+9/13/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,479,Fictional Skybridge Scheduled-Demand Demo Warehouse,606,2,,,FALSE,45.00
+9/14/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+9/14/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,106,Fictional Skybridge Scheduled-Demand Demo Warehouse,455,4,1/12/27,180,FALSE,850.00
+9/14/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,120,2,9/17/26,5,FALSE,180.00
+9/14/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,91,Fictional Skybridge Scheduled-Demand Demo Warehouse,786,5,,,FALSE,420.00
+9/14/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1391,6,,,FALSE,650.00
+9/14/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,471,Fictional Skybridge Scheduled-Demand Demo Warehouse,582,2,,,FALSE,45.00
+9/15/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,21,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+9/15/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,96,Fictional Skybridge Scheduled-Demand Demo Warehouse,457,4,1/13/27,180,FALSE,850.00
+9/15/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,100,2,9/18/26,5,FALSE,180.00
+9/15/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,766,5,,,FALSE,420.00
+9/15/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1444,6,,,FALSE,650.00
+9/15/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,545,Fictional Skybridge Scheduled-Demand Demo Warehouse,600,2,,,FALSE,45.00
+9/16/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,7,,,FALSE,2450.00
+9/16/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,497,4,1/14/27,180,FALSE,850.00
+9/16/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,111,2,9/19/26,5,FALSE,180.00
+9/16/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,793,5,,,FALSE,420.00
+9/16/26,Synthetic EL-45 Device Accessory Cartons,Electronics,124,Fictional Skybridge Scheduled-Demand Demo Warehouse,1419,6,,,FALSE,650.00
+9/16/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,559,Fictional Skybridge Scheduled-Demand Demo Warehouse,625,2,,,FALSE,45.00
+9/17/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,21,Fictional Skybridge Scheduled-Demand Demo Warehouse,79,7,,,FALSE,2450.00
+9/17/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,475,4,1/15/27,180,FALSE,850.00
+9/17/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,73,Fictional Skybridge Scheduled-Demand Demo Warehouse,112,2,9/20/26,5,FALSE,180.00
+9/17/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,93,Fictional Skybridge Scheduled-Demand Demo Warehouse,813,5,,,FALSE,420.00
+9/17/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1385,6,,,FALSE,650.00
+9/17/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,575,Fictional Skybridge Scheduled-Demand Demo Warehouse,591,2,,,FALSE,45.00
+9/18/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+9/18/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,107,Fictional Skybridge Scheduled-Demand Demo Warehouse,445,4,1/16/27,180,FALSE,850.00
+9/18/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,2,9/21/26,5,FALSE,180.00
+9/18/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,797,5,,,FALSE,420.00
+9/18/26,Synthetic EL-45 Device Accessory Cartons,Electronics,138,Fictional Skybridge Scheduled-Demand Demo Warehouse,1393,6,,,FALSE,650.00
+9/18/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,574,Fictional Skybridge Scheduled-Demand Demo Warehouse,679,2,,,FALSE,45.00
+9/19/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+9/19/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,1/17/27,180,FALSE,850.00
+9/19/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,69,Fictional Skybridge Scheduled-Demand Demo Warehouse,135,2,9/22/26,5,FALSE,180.00
+9/19/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,781,5,,,FALSE,420.00
+9/19/26,Synthetic EL-45 Device Accessory Cartons,Electronics,126,Fictional Skybridge Scheduled-Demand Demo Warehouse,1459,6,,,FALSE,650.00
+9/19/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,489,Fictional Skybridge Scheduled-Demand Demo Warehouse,578,2,,,FALSE,45.00
+9/20/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,101,7,,,FALSE,2450.00
+9/20/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,408,4,1/18/27,180,FALSE,850.00
+9/20/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,69,Fictional Skybridge Scheduled-Demand Demo Warehouse,124,2,9/23/26,5,FALSE,180.00
+9/20/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,764,5,,,FALSE,420.00
+9/20/26,Synthetic EL-45 Device Accessory Cartons,Electronics,121,Fictional Skybridge Scheduled-Demand Demo Warehouse,1364,6,,,FALSE,650.00
+9/20/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,466,Fictional Skybridge Scheduled-Demand Demo Warehouse,619,2,,,FALSE,45.00
+9/21/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,95,7,,,FALSE,2450.00
+9/21/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,487,4,1/19/27,180,FALSE,850.00
+9/21/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,112,2,9/24/26,5,FALSE,180.00
+9/21/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,821,5,,,FALSE,420.00
+9/21/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1426,6,,,FALSE,650.00
+9/21/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,556,Fictional Skybridge Scheduled-Demand Demo Warehouse,527,2,,,FALSE,45.00
+9/22/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,96,7,,,FALSE,2450.00
+9/22/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,427,4,1/20/27,180,FALSE,850.00
+9/22/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,127,2,9/25/26,5,FALSE,180.00
+9/22/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,825,5,,,FALSE,420.00
+9/22/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1338,6,,,FALSE,650.00
+9/22/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,539,Fictional Skybridge Scheduled-Demand Demo Warehouse,557,2,,,FALSE,45.00
+9/23/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,77,7,,,FALSE,2450.00
+9/23/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,109,Fictional Skybridge Scheduled-Demand Demo Warehouse,432,4,1/21/27,180,FALSE,850.00
+9/23/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,107,2,9/26/26,5,FALSE,180.00
+9/23/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,777,5,,,FALSE,420.00
+9/23/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1323,6,,,FALSE,650.00
+9/23/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,506,Fictional Skybridge Scheduled-Demand Demo Warehouse,565,2,,,FALSE,45.00
+9/24/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+9/24/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,441,4,1/22/27,180,FALSE,850.00
+9/24/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,116,2,9/27/26,5,FALSE,180.00
+9/24/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,811,5,,,FALSE,420.00
+9/24/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1404,6,,,FALSE,650.00
+9/24/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,560,Fictional Skybridge Scheduled-Demand Demo Warehouse,620,2,,,FALSE,45.00
+9/25/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,102,7,,,FALSE,2450.00
+9/25/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,455,4,1/23/27,180,FALSE,850.00
+9/25/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,109,2,9/28/26,5,FALSE,180.00
+9/25/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,807,5,,,FALSE,420.00
+9/25/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1493,6,,,FALSE,650.00
+9/25/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,599,Fictional Skybridge Scheduled-Demand Demo Warehouse,574,2,,,FALSE,45.00
+9/26/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,87,7,,,FALSE,2450.00
+9/26/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,453,4,1/24/27,180,FALSE,850.00
+9/26/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,122,2,9/29/26,5,FALSE,180.00
+9/26/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,762,5,,,FALSE,420.00
+9/26/26,Synthetic EL-45 Device Accessory Cartons,Electronics,135,Fictional Skybridge Scheduled-Demand Demo Warehouse,1353,6,,,FALSE,650.00
+9/26/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,515,Fictional Skybridge Scheduled-Demand Demo Warehouse,699,2,,,FALSE,45.00
+9/27/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,98,7,,,FALSE,2450.00
+9/27/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,107,Fictional Skybridge Scheduled-Demand Demo Warehouse,478,4,1/25/27,180,FALSE,850.00
+9/27/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,66,Fictional Skybridge Scheduled-Demand Demo Warehouse,110,2,9/30/26,5,FALSE,180.00
+9/27/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,776,5,,,FALSE,420.00
+9/27/26,Synthetic EL-45 Device Accessory Cartons,Electronics,144,Fictional Skybridge Scheduled-Demand Demo Warehouse,1399,6,,,FALSE,650.00
+9/27/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,482,Fictional Skybridge Scheduled-Demand Demo Warehouse,616,2,,,FALSE,45.00
+9/28/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+9/28/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,405,4,1/26/27,180,FALSE,850.00
+9/28/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,124,2,10/1/26,5,FALSE,180.00
+9/28/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,93,Fictional Skybridge Scheduled-Demand Demo Warehouse,796,5,,,FALSE,420.00
+9/28/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1551,6,,,FALSE,650.00
+9/28/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,556,Fictional Skybridge Scheduled-Demand Demo Warehouse,594,2,,,FALSE,45.00
+9/29/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,82,7,,,FALSE,2450.00
+9/29/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,424,4,1/27/27,180,FALSE,850.00
+9/29/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,76,Fictional Skybridge Scheduled-Demand Demo Warehouse,115,2,10/2/26,5,FALSE,180.00
+9/29/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,813,5,,,FALSE,420.00
+9/29/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1415,6,,,FALSE,650.00
+9/29/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,559,Fictional Skybridge Scheduled-Demand Demo Warehouse,573,2,,,FALSE,45.00
+9/30/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,73,7,,,FALSE,2450.00
+9/30/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,458,4,1/28/27,180,FALSE,850.00
+9/30/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,121,2,10/3/26,5,FALSE,180.00
+9/30/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,855,5,,,FALSE,420.00
+9/30/26,Synthetic EL-45 Device Accessory Cartons,Electronics,129,Fictional Skybridge Scheduled-Demand Demo Warehouse,1402,6,,,FALSE,650.00
+9/30/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,546,Fictional Skybridge Scheduled-Demand Demo Warehouse,576,2,,,FALSE,45.00
+10/1/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+10/1/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,417,4,1/29/27,180,FALSE,850.00
+10/1/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,134,2,10/4/26,5,FALSE,180.00
+10/1/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,844,5,,,FALSE,420.00
+10/1/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1376,6,,,FALSE,650.00
+10/1/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,560,Fictional Skybridge Scheduled-Demand Demo Warehouse,648,2,,,FALSE,45.00
+10/2/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+10/2/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,464,4,1/30/27,180,FALSE,850.00
+10/2/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,10/5/26,5,FALSE,180.00
+10/2/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,794,5,,,FALSE,420.00
+10/2/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1322,6,,,FALSE,650.00
+10/2/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,584,Fictional Skybridge Scheduled-Demand Demo Warehouse,609,2,,,FALSE,45.00
+10/3/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,93,7,,,FALSE,2450.00
+10/3/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,461,4,1/31/27,180,FALSE,850.00
+10/3/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,112,2,10/6/26,5,FALSE,180.00
+10/3/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,775,5,,,FALSE,420.00
+10/3/26,Synthetic EL-45 Device Accessory Cartons,Electronics,137,Fictional Skybridge Scheduled-Demand Demo Warehouse,1299,6,,,TRUE,650.00
+10/3/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,526,Fictional Skybridge Scheduled-Demand Demo Warehouse,644,2,,,FALSE,45.00
+10/4/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,99,7,,,FALSE,2450.00
+10/4/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,99,Fictional Skybridge Scheduled-Demand Demo Warehouse,474,4,2/1/27,180,FALSE,850.00
+10/4/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,67,Fictional Skybridge Scheduled-Demand Demo Warehouse,133,2,10/7/26,5,FALSE,180.00
+10/4/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,826,5,,,FALSE,420.00
+10/4/26,Synthetic EL-45 Device Accessory Cartons,Electronics,123,Fictional Skybridge Scheduled-Demand Demo Warehouse,1442,6,,,FALSE,650.00
+10/4/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,476,Fictional Skybridge Scheduled-Demand Demo Warehouse,664,2,,,FALSE,45.00
+10/5/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,21,Fictional Skybridge Scheduled-Demand Demo Warehouse,103,7,,,FALSE,2450.00
+10/5/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,106,Fictional Skybridge Scheduled-Demand Demo Warehouse,405,4,2/2/27,180,FALSE,850.00
+10/5/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,2,10/8/26,5,FALSE,180.00
+10/5/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,91,Fictional Skybridge Scheduled-Demand Demo Warehouse,825,5,,,FALSE,420.00
+10/5/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1345,6,,,FALSE,650.00
+10/5/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,560,Fictional Skybridge Scheduled-Demand Demo Warehouse,653,2,,,FALSE,45.00
+10/6/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+10/6/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,106,Fictional Skybridge Scheduled-Demand Demo Warehouse,472,4,2/3/27,180,FALSE,850.00
+10/6/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,79,Fictional Skybridge Scheduled-Demand Demo Warehouse,123,2,10/9/26,5,FALSE,180.00
+10/6/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,94,Fictional Skybridge Scheduled-Demand Demo Warehouse,760,5,,,FALSE,420.00
+10/6/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1483,6,,,FALSE,650.00
+10/6/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,568,Fictional Skybridge Scheduled-Demand Demo Warehouse,615,2,,,FALSE,45.00
+10/7/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,80,7,,,FALSE,2450.00
+10/7/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,444,4,2/4/27,180,FALSE,850.00
+10/7/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,81,Fictional Skybridge Scheduled-Demand Demo Warehouse,117,2,10/10/26,5,FALSE,180.00
+10/7/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,775,5,,,FALSE,420.00
+10/7/26,Synthetic EL-45 Device Accessory Cartons,Electronics,125,Fictional Skybridge Scheduled-Demand Demo Warehouse,1351,6,,,FALSE,650.00
+10/7/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,541,Fictional Skybridge Scheduled-Demand Demo Warehouse,609,2,,,FALSE,45.00
+10/8/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,78,7,,,FALSE,2450.00
+10/8/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,450,4,2/5/27,180,FALSE,850.00
+10/8/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,102,2,10/11/26,5,FALSE,180.00
+10/8/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,806,5,,,FALSE,420.00
+10/8/26,Synthetic EL-45 Device Accessory Cartons,Electronics,134,Fictional Skybridge Scheduled-Demand Demo Warehouse,1494,6,,,FALSE,650.00
+10/8/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,614,Fictional Skybridge Scheduled-Demand Demo Warehouse,548,2,,,FALSE,45.00
+10/9/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,90,7,,,FALSE,2450.00
+10/9/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,454,4,2/6/27,180,FALSE,850.00
+10/9/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,10/12/26,5,FALSE,180.00
+10/9/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,758,5,,,FALSE,420.00
+10/9/26,Synthetic EL-45 Device Accessory Cartons,Electronics,142,Fictional Skybridge Scheduled-Demand Demo Warehouse,1534,6,,,FALSE,650.00
+10/9/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,562,Fictional Skybridge Scheduled-Demand Demo Warehouse,584,2,,,FALSE,45.00
+10/10/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,92,7,,,FALSE,2450.00
+10/10/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,107,Fictional Skybridge Scheduled-Demand Demo Warehouse,463,4,2/7/27,180,FALSE,850.00
+10/10/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,73,Fictional Skybridge Scheduled-Demand Demo Warehouse,106,2,10/13/26,5,FALSE,180.00
+10/10/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,841,5,,,FALSE,420.00
+10/10/26,Synthetic EL-45 Device Accessory Cartons,Electronics,122,Fictional Skybridge Scheduled-Demand Demo Warehouse,1346,6,,,FALSE,650.00
+10/10/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,486,Fictional Skybridge Scheduled-Demand Demo Warehouse,623,2,,,FALSE,45.00
+10/11/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,18,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+10/11/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,455,4,2/8/27,180,FALSE,850.00
+10/11/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,66,Fictional Skybridge Scheduled-Demand Demo Warehouse,111,2,10/14/26,5,FALSE,180.00
+10/11/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,815,5,,,FALSE,420.00
+10/11/26,Synthetic EL-45 Device Accessory Cartons,Electronics,116,Fictional Skybridge Scheduled-Demand Demo Warehouse,1408,6,,,FALSE,650.00
+10/11/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,461,Fictional Skybridge Scheduled-Demand Demo Warehouse,593,2,,,FALSE,45.00
+10/12/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+10/12/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,103,Fictional Skybridge Scheduled-Demand Demo Warehouse,447,4,2/9/27,180,FALSE,850.00
+10/12/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,80,Fictional Skybridge Scheduled-Demand Demo Warehouse,112,2,10/15/26,5,FALSE,180.00
+10/12/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,815,5,,,FALSE,420.00
+10/12/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1336,6,,,FALSE,650.00
+10/12/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,596,Fictional Skybridge Scheduled-Demand Demo Warehouse,629,2,,,FALSE,45.00
+10/13/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,88,7,,,FALSE,2450.00
+10/13/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,422,4,2/10/27,180,FALSE,850.00
+10/13/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,76,Fictional Skybridge Scheduled-Demand Demo Warehouse,114,2,10/16/26,5,FALSE,180.00
+10/13/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,822,5,,,FALSE,420.00
+10/13/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1394,6,,,FALSE,650.00
+10/13/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,567,Fictional Skybridge Scheduled-Demand Demo Warehouse,587,2,,,FALSE,45.00
+10/14/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,81,7,,,FALSE,2450.00
+10/14/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,462,4,2/11/27,180,FALSE,850.00
+10/14/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,82,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,10/17/26,5,FALSE,180.00
+10/14/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,809,5,,,FALSE,420.00
+10/14/26,Synthetic EL-45 Device Accessory Cartons,Electronics,130,Fictional Skybridge Scheduled-Demand Demo Warehouse,1370,6,,,FALSE,650.00
+10/14/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,640,Fictional Skybridge Scheduled-Demand Demo Warehouse,624,2,,,TRUE,45.00
+10/15/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,21,Fictional Skybridge Scheduled-Demand Demo Warehouse,97,7,,,FALSE,2450.00
+10/15/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,432,4,2/12/27,180,FALSE,850.00
+10/15/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,80,Fictional Skybridge Scheduled-Demand Demo Warehouse,128,2,10/18/26,5,FALSE,180.00
+10/15/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,94,Fictional Skybridge Scheduled-Demand Demo Warehouse,816,5,,,FALSE,420.00
+10/15/26,Synthetic EL-45 Device Accessory Cartons,Electronics,134,Fictional Skybridge Scheduled-Demand Demo Warehouse,1402,6,,,FALSE,650.00
+10/15/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,565,Fictional Skybridge Scheduled-Demand Demo Warehouse,668,2,,,FALSE,45.00
+10/16/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,73,7,,,FALSE,2450.00
+10/16/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,431,4,2/13/27,180,FALSE,850.00
+10/16/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,113,2,10/19/26,5,FALSE,180.00
+10/16/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,805,5,,,FALSE,420.00
+10/16/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1329,6,,,FALSE,650.00
+10/16/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,578,Fictional Skybridge Scheduled-Demand Demo Warehouse,517,2,,,FALSE,45.00
+10/17/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,17,Fictional Skybridge Scheduled-Demand Demo Warehouse,81,7,,,FALSE,2450.00
+10/17/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,105,Fictional Skybridge Scheduled-Demand Demo Warehouse,436,4,2/14/27,180,FALSE,850.00
+10/17/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,72,Fictional Skybridge Scheduled-Demand Demo Warehouse,123,2,10/20/26,5,FALSE,180.00
+10/17/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,87,Fictional Skybridge Scheduled-Demand Demo Warehouse,759,5,,,FALSE,420.00
+10/17/26,Synthetic EL-45 Device Accessory Cartons,Electronics,120,Fictional Skybridge Scheduled-Demand Demo Warehouse,1334,6,,,FALSE,650.00
+10/17/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,526,Fictional Skybridge Scheduled-Demand Demo Warehouse,635,2,,,FALSE,45.00
+10/18/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,83,7,,,FALSE,2450.00
+10/18/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,465,4,2/15/27,180,FALSE,850.00
+10/18/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,70,Fictional Skybridge Scheduled-Demand Demo Warehouse,119,2,10/21/26,5,FALSE,180.00
+10/18/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,794,5,,,FALSE,420.00
+10/18/26,Synthetic EL-45 Device Accessory Cartons,Electronics,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,1510,6,,,FALSE,650.00
+10/18/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,472,Fictional Skybridge Scheduled-Demand Demo Warehouse,565,2,,,FALSE,45.00
+10/19/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,86,7,,,FALSE,2450.00
+10/19/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,440,4,2/16/27,180,FALSE,850.00
+10/19/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,111,2,10/22/26,5,FALSE,180.00
+10/19/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,95,Fictional Skybridge Scheduled-Demand Demo Warehouse,821,5,,,FALSE,420.00
+10/19/26,Synthetic EL-45 Device Accessory Cartons,Electronics,126,Fictional Skybridge Scheduled-Demand Demo Warehouse,1389,6,,,FALSE,650.00
+10/19/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,655,Fictional Skybridge Scheduled-Demand Demo Warehouse,636,2,,,TRUE,45.00
+10/20/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,21,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+10/20/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,104,Fictional Skybridge Scheduled-Demand Demo Warehouse,445,4,2/17/27,180,FALSE,850.00
+10/20/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,74,Fictional Skybridge Scheduled-Demand Demo Warehouse,122,2,10/23/26,5,FALSE,180.00
+10/20/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,89,Fictional Skybridge Scheduled-Demand Demo Warehouse,800,5,,,FALSE,420.00
+10/20/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1365,6,,,FALSE,650.00
+10/20/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,549,Fictional Skybridge Scheduled-Demand Demo Warehouse,563,2,,,FALSE,45.00
+10/21/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,7,,,FALSE,2450.00
+10/21/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,109,Fictional Skybridge Scheduled-Demand Demo Warehouse,429,4,2/18/27,180,FALSE,850.00
+10/21/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,10/24/26,5,FALSE,180.00
+10/21/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,94,Fictional Skybridge Scheduled-Demand Demo Warehouse,823,5,,,FALSE,420.00
+10/21/26,Synthetic EL-45 Device Accessory Cartons,Electronics,133,Fictional Skybridge Scheduled-Demand Demo Warehouse,1381,6,,,FALSE,650.00
+10/21/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,563,Fictional Skybridge Scheduled-Demand Demo Warehouse,598,2,,,FALSE,45.00
+10/22/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,106,7,,,FALSE,2450.00
+10/22/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,453,4,2/19/27,180,FALSE,850.00
+10/22/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,116,2,10/25/26,5,FALSE,180.00
+10/22/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,92,Fictional Skybridge Scheduled-Demand Demo Warehouse,855,5,,,FALSE,420.00
+10/22/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1358,6,,,FALSE,650.00
+10/22/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,551,Fictional Skybridge Scheduled-Demand Demo Warehouse,592,2,,,FALSE,45.00
+10/23/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,20,Fictional Skybridge Scheduled-Demand Demo Warehouse,83,7,,,FALSE,2450.00
+10/23/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,107,Fictional Skybridge Scheduled-Demand Demo Warehouse,475,4,2/20/27,180,FALSE,850.00
+10/23/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,118,2,10/26/26,5,FALSE,180.00
+10/23/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,88,Fictional Skybridge Scheduled-Demand Demo Warehouse,844,5,,,FALSE,420.00
+10/23/26,Synthetic EL-45 Device Accessory Cartons,Electronics,132,Fictional Skybridge Scheduled-Demand Demo Warehouse,1423,6,,,FALSE,650.00
+10/23/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,572,Fictional Skybridge Scheduled-Demand Demo Warehouse,563,2,,,FALSE,45.00
+10/24/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,23,Fictional Skybridge Scheduled-Demand Demo Warehouse,87,7,,,FALSE,2450.00
+10/24/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,371,4,2/21/27,180,FALSE,850.00
+10/24/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,71,Fictional Skybridge Scheduled-Demand Demo Warehouse,106,2,10/27/26,5,FALSE,180.00
+10/24/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,86,Fictional Skybridge Scheduled-Demand Demo Warehouse,791,5,,,FALSE,420.00
+10/24/26,Synthetic EL-45 Device Accessory Cartons,Electronics,124,Fictional Skybridge Scheduled-Demand Demo Warehouse,1256,6,,,FALSE,650.00
+10/24/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,508,Fictional Skybridge Scheduled-Demand Demo Warehouse,600,2,,,FALSE,45.00
+10/25/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,105,7,,,FALSE,2450.00
+10/25/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,102,Fictional Skybridge Scheduled-Demand Demo Warehouse,449,4,2/22/27,180,FALSE,850.00
+10/25/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,78,Fictional Skybridge Scheduled-Demand Demo Warehouse,132,2,10/28/26,5,FALSE,180.00
+10/25/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,83,Fictional Skybridge Scheduled-Demand Demo Warehouse,799,5,,,FALSE,420.00
+10/25/26,Synthetic EL-45 Device Accessory Cartons,Electronics,134,Fictional Skybridge Scheduled-Demand Demo Warehouse,1368,6,,,FALSE,650.00
+10/25/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,520,Fictional Skybridge Scheduled-Demand Demo Warehouse,566,2,,,FALSE,45.00
+10/26/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,89,7,,,FALSE,2450.00
+10/26/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,100,Fictional Skybridge Scheduled-Demand Demo Warehouse,491,4,2/23/27,180,FALSE,850.00
+10/26/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,82,Fictional Skybridge Scheduled-Demand Demo Warehouse,124,2,10/29/26,5,FALSE,180.00
+10/26/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,770,5,,,FALSE,420.00
+10/26/26,Synthetic EL-45 Device Accessory Cartons,Electronics,136,Fictional Skybridge Scheduled-Demand Demo Warehouse,1309,6,,,FALSE,650.00
+10/26/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,580,Fictional Skybridge Scheduled-Demand Demo Warehouse,567,2,,,FALSE,45.00
+10/27/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,96,7,,,FALSE,2450.00
+10/27/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,101,Fictional Skybridge Scheduled-Demand Demo Warehouse,416,4,2/24/27,180,FALSE,850.00
+10/27/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,84,Fictional Skybridge Scheduled-Demand Demo Warehouse,113,2,10/30/26,5,FALSE,180.00
+10/27/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,111,Fictional Skybridge Scheduled-Demand Demo Warehouse,799,5,,,FALSE,420.00
+10/27/26,Synthetic EL-45 Device Accessory Cartons,Electronics,131,Fictional Skybridge Scheduled-Demand Demo Warehouse,1465,6,,,FALSE,650.00
+10/27/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,577,Fictional Skybridge Scheduled-Demand Demo Warehouse,595,2,,,FALSE,45.00
+10/28/26,Synthetic AP-17 Scheduled Actuator Kits,Aircraft replacement parts,19,Fictional Skybridge Scheduled-Demand Demo Warehouse,85,7,,,FALSE,2450.00
+10/28/26,Synthetic PH-24 Medical Supply Cartons,Pharmaceuticals,98,Fictional Skybridge Scheduled-Demand Demo Warehouse,418,4,2/25/27,180,FALSE,850.00
+10/28/26,Synthetic SF-08 Chilled Seafood Crates,Fresh seafood,85,Fictional Skybridge Scheduled-Demand Demo Warehouse,107,2,10/31/26,5,FALSE,180.00
+10/28/26,Synthetic AC-32 Sensor Assembly Cartons,Automotive components,90,Fictional Skybridge Scheduled-Demand Demo Warehouse,774,5,,,FALSE,420.00
+10/28/26,Synthetic EL-45 Device Accessory Cartons,Electronics,134,Fictional Skybridge Scheduled-Demand Demo Warehouse,1264,6,,,FALSE,650.00
+10/28/26,Synthetic EC-60 General Merchandise Parcels,E-commerce packages,536,Fictional Skybridge Scheduled-Demand Demo Warehouse,564,2,,,FALSE,45.00
